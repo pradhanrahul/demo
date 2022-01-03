@@ -1,0 +1,34 @@
+/* -------components-------- */
+@import './components/index.css';
+@import './Learn.css';
+
+*{
+    box-sizing: border-box;
+}
+
+
+.flex-row{
+    display: flex;
+    flex-direction: row;
+}
+.flex-column{
+    display: flex;
+    flex-direction: column;
+}
+.flex-justify-start{
+    justify-content: start;
+}
+.flex-justify-between{
+    justify-content: space-between;
+}
+.flex-align-center{
+    align-items: center;
+}
+.flex-justify-center{
+    justify-content: center;
+}
+:root{
+    
+}
+
+
